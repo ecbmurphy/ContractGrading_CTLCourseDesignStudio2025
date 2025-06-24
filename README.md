@@ -5,8 +5,8 @@ CC BY-NC-SA
 
 This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms. It applies to all material in this repository. 
 
-Resources for UBC Okanagan CTL Course Design Studio session on student-focused assessment, contract grading
 #Contents
+Resources for UBC Okanagan CTL Course Design Studio session on student-focused assessment, contract grading.
 1. Slides for Session
 2. Worksheet Parts I and II
 3. Sample Materials for ENGL305/DIHU301
