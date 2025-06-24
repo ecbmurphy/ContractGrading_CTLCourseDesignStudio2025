@@ -1,5 +1,5 @@
 # ContractGrading_CTLCourseDesignStudio2025
-Contents
+
 Resources for UBC Okanagan CTL Course Design Studio session on student-focused assessment, contract grading.
 1. Slides for Session
 2. Worksheet Parts I and II
